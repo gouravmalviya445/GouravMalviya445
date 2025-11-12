@@ -24,7 +24,7 @@
 
 Thanks for stopping by! 😁
 
-⭐️ From [GouravMalviya445](https://github.com/GouravMalviya445)
+⭐️ From [Gourav Malviya](https://github.com/gouravmalviya445)
 
 
 <!--
