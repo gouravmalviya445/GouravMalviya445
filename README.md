@@ -31,38 +31,6 @@ Full-stack software developer specializing in **JavaScript** and **Go** — buil
 
 ----------
 
-## 🚀 Featured Projects
-
-### 🎟️ [Event Management System](https://gatherly.gourav.site/)
-
-> TypeScript · Go · Next.js · MongoDB · Razorpay
-
-Production-grade microservices platform with time-bound seat reservations, pessimistic locking, automated background workers, and Razorpay webhook integration. Load-tested with Autocannon simulating **500+ concurrent users**.
-
-[Go Service](https://github.com/gouravmalviya445/event-booking-golang) · [Node Service](https://github.com/gouravmalviya445/event-booking-node) · [Frontend](https://github.com/gouravmalviya445/event-booking-frontend)
-
-----------
-
-### 🤖 [Open-Bot](https://github.com/gouravmalviya445/open-bot)
-
-> TypeScript · Vercel AI SDK · Clack · Telegraf
-
-Multi-mode AI agent for codebase interaction via a rich terminal UI (CLI) and Telegram bot. Features a human-in-the-loop safety pipeline — changes are staged, diffed, and approved before execution.
-
-[code](https://github.com/gouravmalviya445/open-bot)
-
-----------
-
-### 🎙️ [PrepWise](https://prepwise.gourav.site/)
-
-> React.js · TypeScript · Firebase · Gemini API · Vapi
-
-AI-powered interview simulation platform that generates dynamic technical questions per tech stack, evaluates responses via Gemini API, and delivers personalized improvement roadmaps.
-
-[Code](https://github.com/gouravmalviya445/interview_prep_with_ai)
-
-----------
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravmalviya) [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gouravdotcom) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gouravmalviya445@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.gourav.site/)
